@@ -6,5 +6,3 @@ build/
 bin/
 database/
 derby.log
-.apt_generated/
-.factorypath

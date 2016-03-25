@@ -6,9 +6,9 @@
          version="3.1">
   
   <data-source>
-    <name>java:app/database</name>
+    <name>java:app/sample</name>
     <class-name>org.apache.derby.jdbc.EmbeddedDataSource</class-name>
-    <database-name>database</database-name>
+    <database-name>db</database-name>
     <property>
       <name>connectionAttributes</name>
       <value>;create=true</value>
